@@ -78,6 +78,7 @@ object ConsoleServiceImpl : ConsoleService {
             }
         }
     }
+    //dfdfdfdfdfdfdfdfdfdfd
     private fun addFigure() {
         println("Какую фигуру хотите добавить: \n 1) квадрат\n 2) круг")
         val figure = readLine()
